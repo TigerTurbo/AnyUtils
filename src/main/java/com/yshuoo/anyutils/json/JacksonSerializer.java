@@ -18,10 +18,6 @@ import java.util.Calendar;
 import java.util.GregorianCalendar;
 
 /**
- * Copyright (c) 1999-2017 携程旅行网
- * all rights reserved
- *
- * @author duwl
  * 2017/5/15.9:32
  */
 @Slf4j
